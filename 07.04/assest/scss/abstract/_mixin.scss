@@ -1,0 +1,19 @@
+
+@mixin nav-icon{
+  border-radius: 50%;
+  padding: 12px;
+  background-color: #2f2f96;
+  color: white;
+  font-size: 20px;
+}
+@mixin btn1 {
+  font-size: 15px;
+  letter-spacing: .2rem;
+  text-align: center;
+  background-color: #1089ff;
+  border-color: #1089ff;
+  font-weight: 402;
+  padding: 1rem;
+  border-radius: 15px;
+  color:white;
+}
